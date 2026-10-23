@@ -1,0 +1,14 @@
+import math
+import random
+import datetime
+
+# Using math module
+print("Square root:", math.sqrt(25))
+print("Power:", math.pow(2, 3))
+
+# Using random module
+print("Random number:", random.randint(1, 10))
+
+# Using datetime module
+today = datetime.date.today()
+print("Today's date:", today)
