@@ -8,7 +8,6 @@ class StudentManagementSystem:
         name = input("Enter Name: ")
         age = input("Enter Age: ")
         course = input("Enter Course: ")
-        
         student = {
             "roll_no": roll_no,
             "name": name,
@@ -55,8 +54,8 @@ def main():
         print("\n==============================")
         print("   STUDENT MANAGEMENT SYSTEM  ")
         print("==============================")
-        print("1. Add Student")
-        print("2. View Students")
+        print("1. Add Student of kashmir university")
+        print("2. View Students records")
         print("3. Search Student")
         print("4. Delete Student")
         print("5. Exit")
